@@ -1,1 +1,1 @@
-DigiNotes - SummitHacks
+** DigiNotes - Your personalized digital notebook
